@@ -1,6 +1,6 @@
 {
-  "name": "DILLON DAILY",
-  "short_name": "DILLON DAILY",
+  "name": "Daily Dilly",
+  "short_name": "Daily Dilly",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
